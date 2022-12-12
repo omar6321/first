@@ -1,2 +1,4 @@
 # first
 for tries
+
+notes
