@@ -1,4 +1,0 @@
-# first
-for tries
-
-notes
